@@ -1,6 +1,6 @@
 # Print-Math-table-with-OLED-display-and-Rotary-encoder
 
-connection goes like this
+Connection goes like this
 
 OLED To Arduino
 
