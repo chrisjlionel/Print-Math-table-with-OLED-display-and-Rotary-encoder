@@ -53,7 +53,12 @@ void loop() {
   
   int x=value*y;
   
-  Serial.print(val,x "=" val,value "x" val,Y);
+  Serial.print(x);
+  Serial.print("=");
+  Serial.print(value);
+  Serial.print("x");
+  Serial.print(y);
+  Serial.println();
   
   display.clearDisplay();
   
@@ -86,5 +91,3 @@ void loop() {
   delay(500);
   display.clearDisplay();
 }
-
-
