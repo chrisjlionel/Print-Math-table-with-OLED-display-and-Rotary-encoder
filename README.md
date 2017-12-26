@@ -20,10 +20,10 @@ Rotary encoder to Arduino
 
 Add following libraries
 
-Adafruit_GFX.h      \\ https://github.com/adafruit/Adafruit-GFX-Library.git
+Adafruit_GFX.h      \\-> https://github.com/adafruit/Adafruit-GFX-Library.git
 
-Adafruit_SSD1306.h  \\ https://github.com/adafruit/Adafruit_SSD1306.git
+Adafruit_SSD1306.h  \\-> https://github.com/adafruit/Adafruit_SSD1306.git
 
-ClickEncoder.h      \\ https://github.com/0xPIT/encoder.git
+ClickEncoder.h      \\-> https://github.com/0xPIT/encoder.git
 
-TimerOne.h          \\ https://github.com/PaulStoffregen/TimerOne.git
+TimerOne.h          \\-> https://github.com/PaulStoffregen/TimerOne.git
