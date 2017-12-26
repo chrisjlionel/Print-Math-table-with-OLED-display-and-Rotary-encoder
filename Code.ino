@@ -62,31 +62,18 @@ void loop() {
   
   display.clearDisplay();
   
-  display.setCursor(0,10);  //OLED Display
+  display.setCursor(0,1);  //OLED Display
   display.setTextSize(2);
   display.setTextColor(WHITE);
-  display.println(x);
-  
-  display.setCursor(37,10);  //OLED Display
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.println("=");
-
-  display.setCursor(51,10);  //OLED Display
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.println(value);
-
-  display.setCursor(77,10);  //OLED Display
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.println("x");
-
-  display.setCursor(90,10);  //OLED Display
-  display.setTextSize(2);
-  display.setTextColor(WHITE);
-  display.println(y);
-
+  display.print(x);
+  display.print("=");
+  display.print(value);
+  display.print("x");
+  display.print(y);
+  display.println();
+  display.setTextSize(1);
+  display.setCursor(0,19);
+  display.print("CHRISJLIONEL # GITHUB");
   display.display();
   delay(500);
   display.clearDisplay();
