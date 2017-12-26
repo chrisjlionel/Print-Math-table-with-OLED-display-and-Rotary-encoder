@@ -1,3 +1,8 @@
+// This project is coded by J Lionel Christian Jeyaraj
+// Browse his featured works @ https://www.instructables.com/member/chrisjlionel/instructables/
+// Email chrisjlionel@live.com
+// mobile +91-8807971412
+
 #include <Adafruit_GFX.h> //for this must add lib file download from Adfruit
 #include <Adafruit_SSD1306.h> //for this must add lib file download from adfruit
 #include <ClickEncoder.h>
