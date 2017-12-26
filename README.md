@@ -18,7 +18,7 @@ Rotary encoder to Arduino
  4. DT  to A1,
  5. Sw  to A2.
 
-Add following libraries
+Add following libraries (You can find all the libraries in this repository)
 
 Adafruit_GFX.h      \\-> https://github.com/adafruit/Adafruit-GFX-Library.git
 
