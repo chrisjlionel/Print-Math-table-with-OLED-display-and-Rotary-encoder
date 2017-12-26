@@ -1,4 +1,4 @@
-// This project is coded by J Lionel Christian Jeyaraj
+// This project is coded by J Lionel Christian Jeyaraj (M.tech in Advanced manufacturing)
 // Browse his featured works @ https://www.instructables.com/member/chrisjlionel/instructables/
 // Email chrisjlionel@live.com
 // mobile +91-8807971412
