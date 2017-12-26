@@ -17,3 +17,10 @@ Rotary encoder to Arduino
  Clk to A0,
  DT  to A1,
  Sw  to A2.
+
+Add following libraries
+
+Adafruit_GFX.h      \\https://github.com/adafruit/Adafruit-GFX-Library.git
+Adafruit_SSD1306.h  \\https://github.com/adafruit/Adafruit_SSD1306.git
+ClickEncoder.h      \\https://github.com/0xPIT/encoder.git
+TimerOne.h          \\https://github.com/PaulStoffregen/TimerOne.git
