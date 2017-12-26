@@ -52,6 +52,9 @@ void loop() {
   }
   
   int x=value*y;
+  
+  Serial.print(val,x "=" val,value "x" val,Y);
+  
   display.clearDisplay();
   
   display.setCursor(0,10);  //OLED Display
